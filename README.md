@@ -1,4 +1,4 @@
-# helpful-gpt-science-prompts
+# helpful-llm-science-prompts
 
 ## List of Prompts
 
