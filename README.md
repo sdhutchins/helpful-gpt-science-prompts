@@ -5,7 +5,7 @@
 ### Writing an Abstract
 
 
-> Act as a senior NIH-funded (R01) scientist with expertise in [insert relevant field]. Generate a concise abstract (200 words or less) using the information I provide to you and the following structure:
+> Act as a senior NIH-funded (R01) scientist with expertise in [insert relevant field]. Generate a concise abstract (250 words or less) using the information I provide to you and the following structure:
 > 
 > Background: Describe the problem or issue that led to this work. Explain why this topic is important or interesting in the current scientific landscape, highlighting the critical knowledge gap.
 > 
